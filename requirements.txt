@@ -1,0 +1,12 @@
+fastapi==0.110.0
+uvicorn[standard]==0.27.1
+
+torch>=2.0.0
+torchvision>=0.15.0
+transformers>=4.36.0
+
+pillow>=10.0.0
+python-multipart>=0.0.9
+numpy
+opencv-python
+ultralytics>=8.1.0
