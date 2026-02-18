@@ -13,7 +13,7 @@ from PIL import Image
 # ===============================
 # 1️⃣ Load YOLOv8 model
 # ===============================
-MODEL_PATH = "runs/detect/train/weights/best.pt"
+MODEL_PATH = "best.pt"
 model = YOLO(MODEL_PATH)
 print("✅ YOLOv8 model loaded successfully")
 
